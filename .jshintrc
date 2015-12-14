@@ -1,0 +1,9 @@
+{
+    "esnext": true,
+    "forin": true,
+    "node": true,
+    "strict": false,
+    "undef": true,
+    "noyield": true,
+    "jasmine": true
+}
